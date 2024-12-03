@@ -11,7 +11,7 @@
     /* border: 1px solid yellow; */
   }
   body{
-    background-image: linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.6)),url(../image/background.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.6)),url(../image/background2.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -366,4 +366,4 @@ background: var(--btn-hvr);
   .input_item{
     overflow: hidden;
   }
-  
+}  
